@@ -53,7 +53,7 @@ In this repository you will find demo projects created with the PICO SDK, as wel
 | How to complete the mapping of controller and implement basic controller interactions. | How to implement simple hand gesture recognization and hand interactions. | How to drive avatar with PICO body tracking data and achieve various interactive functions. |
 | [**UE5 Identity Friend Rtc**](https://github.com/picoxr/PlatformSDK_Identity_Friend_Rtc) | [**UE5 Achievement LeaderBoard**](https://github.com/picoxr/PlatformSDK_LeaderBoard-Achievement_UE4) |[**Haptic**](https://github.com/picoxr/Haptic)|
 | How to use PICO Unreal Platform services to integrate identity/friend list/RTC audio chat services for multiplayer games(Updated to UE 5.6). |  How to use PICO Unreal Platform services to integrate achievement/leaderboard for multiplayer games(Updated to UE 5.6). |  How to implement normal or broadband haptic on controllers.|
-|[**Rendering Techniques**](https://github.com/picoxr/RenderingTechniques) |  |  |
+|[**UE5 Rendering Techniques**](https://github.com/picoxr/RenderingTechniques) |  |  |
 | How to implement different Unreal Engine rendering techniques on PICO devices. |  |  |
 
 ## 🔧 PICO Unreal OpenXR Plugin Demos
